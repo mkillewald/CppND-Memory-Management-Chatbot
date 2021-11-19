@@ -14,8 +14,6 @@ GraphNode::~GraphNode() {
 
   std::cout << "GraphNode Destructor" << std::endl;
 
-  // delete _chatBot; // <-- Task 0 bug squashed!
-
   ////
   //// EOF STUDENT CODE
 }
